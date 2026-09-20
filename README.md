@@ -36,7 +36,7 @@ Electronics-PCB-Designs/
 └── README.md
 ```
 
-Each project may contain:
+project may contain:
 
 ```text
 ├── Schematic/
