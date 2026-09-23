@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "documentType": "protoflow_project",
+  "name": "esp32industrial",
+  "projectFile": "esp32industrial.kicad_pro",
+  "description": ""
+}
